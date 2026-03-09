@@ -1,0 +1,7 @@
+{
+  "name": "FitLiquidLife - Smart Drink & Hydration Calculators",
+  "description": "A professional health and fitness tools website focusing on liquid nutrition, including water intake, smoothies, juices, detox drinks, and protein shakes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
